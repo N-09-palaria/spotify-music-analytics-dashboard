@@ -29,7 +29,7 @@ To analyze what makes songs and artists successful on Spotify by examining popul
 ## 🧩 Dashboard Structure (4 Pages)
 
 ### 🏠 Home — Navigation landing page
-![Spotify Dashboard - Overview](screenshots/Overview.png)
+![Spotify Dashboard - HOME PAGE ](https://github.com/N-09-palaria/spotify-music-analytics-dashboard/blob/0e88ce6498256f5d39b99afad22cfe39d49c3498/Screenshot%202026-02-21%20114108.png)
 
 
 
