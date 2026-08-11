@@ -29,18 +29,25 @@ To analyze what makes songs and artists successful on Spotify by examining popul
 ## 🧩 Dashboard Structure (4 Pages)
 
 ### 🏠 Home — Navigation landing page
+Screenshot 2026-02-21 114108.png
+
+
+A clean entry point that routes viewers to Overview, Artists, and Songs — set up for easy navigation rather than a wall of numbers.
+
 ### 📈 Overview
 - 789 distinct songs | 342 artists | Avg popularity: 90 | Avg duration: 3.28 min
 - Songs by album type (Singles: 269, Albums: 562)
 - Explicit vs Non-Explicit content split (17K vs 11K)
 - Monthly popularity trends and distinct song counts by month
 - Peak activity: **October (136 songs)**
+Screenshot 2026-02-21 233421.png
 
 ### 🎤 Artists
 - Taylor Swift dominates with **85 distinct songs** and **16M+ popularity score**
 - Songs Hit Per Artist (Position 1 hits): Lady Gaga (77), Jung Kook (69), Sabrina (51)
 - Artist-level breakdown: Max popularity, Avg duration, Avg popularity
 - Historical data tracing back to 1942 (Bing Crosby & Fred Astaire)
+Screenshot 2026-02-21 232525.png
 
 ### 🎵 Songs
 - Top songs by popularity: *I Wanna Dance With Somebody* (51K), *Cruel Summer* (50K)
