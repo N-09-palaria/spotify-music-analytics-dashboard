@@ -58,7 +58,7 @@ A clean entry point that routes viewers to Overview, Artists, and Songs — set 
 - Position 1 hits per song: *Die With A Smile* (77), *Seven* (75)
 - Drill-down table: album type, position hits, album count, avg tracks per album
 
-![Spotify Dashboard - Artist page  ](
+![Spotify Dashboard - Songs page  ](https://github.com/N-09-palaria/spotify-music-analytics-dashboard/blob/786038fb5edb9c3c968aa8911e9b1daa86f2c807/Screenshot%202026-02-21%20152602.png)
 
 
 
