@@ -42,19 +42,25 @@ A clean entry point that routes viewers to Overview, Artists, and Songs — set 
 - Monthly popularity trends and distinct song counts by month
 - Peak activity: **October (136 songs)**
 
-
+![Spotify Dashboard - OVERVIEW ](https://github.com/N-09-palaria/spotify-music-analytics-dashboard/blob/1a05b5b573eadf9b9c210c5ff1133b1264a11e1b/Screenshot%202026-02-21%20233421.png)
 
 ### 🎤 Artists
 - Taylor Swift dominates with **85 distinct songs** and **16M+ popularity score**
 - Songs Hit Per Artist (Position 1 hits): Lady Gaga (77), Jung Kook (69), Sabrina (51)
 - Artist-level breakdown: Max popularity, Avg duration, Avg popularity
 - Historical data tracing back to 1942 (Bing Crosby & Fred Astaire)
-Screenshot 2026-02-21 232525.png
+
+![Spotify Dashboard - Artist page  ](https://github.com/N-09-palaria/spotify-music-analytics-dashboard/blob/1a05b5b573eadf9b9c210c5ff1133b1264a11e1b/Screenshot%202026-02-21%20232525.png)
+
 
 ### 🎵 Songs
 - Top songs by popularity: *I Wanna Dance With Somebody* (51K), *Cruel Summer* (50K)
 - Position 1 hits per song: *Die With A Smile* (77), *Seven* (75)
 - Drill-down table: album type, position hits, album count, avg tracks per album
+
+![Spotify Dashboard - Artist page  ](
+
+
 
 ---
 
