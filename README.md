@@ -29,7 +29,8 @@ To analyze what makes songs and artists successful on Spotify by examining popul
 ## 🧩 Dashboard Structure (4 Pages)
 
 ### 🏠 Home — Navigation landing page
-Screenshot 2026-02-21 114108.png
+
+[image alt](https://github.com/N-09-palaria/spotify-music-analytics-dashboard/blob/d5f64586861d913ccd22fc9ec6bf96cec4194fb6/Screenshot%202026-02-21%20114108.png)
 
 
 A clean entry point that routes viewers to Overview, Artists, and Songs — set up for easy navigation rather than a wall of numbers.
@@ -40,7 +41,8 @@ A clean entry point that routes viewers to Overview, Artists, and Songs — set 
 - Explicit vs Non-Explicit content split (17K vs 11K)
 - Monthly popularity trends and distinct song counts by month
 - Peak activity: **October (136 songs)**
-Screenshot 2026-02-21 233421.png
+
+
 
 ### 🎤 Artists
 - Taylor Swift dominates with **85 distinct songs** and **16M+ popularity score**
